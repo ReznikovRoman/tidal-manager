@@ -1,0 +1,4 @@
+tidalapi==0.6.10
+requests==2.27.1
+python-dotenv==0.19.2
+
